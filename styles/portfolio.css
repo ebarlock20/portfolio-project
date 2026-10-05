@@ -13,7 +13,6 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h5 {
   color: black;
   font-family: var(--heading-font-family);
@@ -46,7 +45,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -64,7 +63,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -113,10 +112,6 @@ p {
 
 .project-description {
   padding: 120 60px 0;
-}
-
-footer .contact-box {
-  padding: 30px;
 }
 
 .logo {
@@ -202,10 +197,6 @@ footer .social-links a:hover {
 
   h2 {
     font-size: 44px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .content {
